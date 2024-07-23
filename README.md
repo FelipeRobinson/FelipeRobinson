@@ -2,6 +2,17 @@
 
 ![CLARO](https://img.shields.io/badge/hello-world-white) ![]() ![]() ![]()
 
+##
+
+![Snake Gif](https://github.com/FelipeRobinson/FelipeRobinson/blob/output/github-contribution-grid-snake-dark.svg)
+
+##
+
+![Felbs GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeRobinson&theme=chartreuse-dark)
+![Felbs GitHub ](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRobinson&layout=compact&langs_count=16&theme=chartreuse-dark)
+
+##
+
 - 👀 Eu estou interessado na área de DEV & CYBER-SECURITY <br>
 - 🌱 Eu estou em aprendizado no Ensino Médio & Técnico <br>
 - 💞 Eu estou em colaboração com as insituições de aprendizado: 
@@ -18,12 +29,6 @@
 - Curiosidades about me:
 
 
-##
-
-<br>
-
-![Felbs GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeRobinson&theme=chartreuse-dark)
-![Felbs GitHub ](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRobinson&layout=compact&langs_count=16&theme=chartreuse-dark)
 <!--
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -34,7 +39,6 @@
 
 ##
 
-![Snake Gif](https://github.com/FelipeRobinson/FelipeRobinson/blob/output/github-contribution-grid-snake-dark.svg)
 
 ##
 
