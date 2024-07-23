@@ -34,7 +34,7 @@
 
 ##
 
-![Snake Gif](https://github.com/FelipeRobinson/FelipeRobinson/blob/output/github-contribution-grid-snake.gif)
+![Snake Gif](https://github.com/FelipeRobinson/FelipeRobinson/blob/output/github-contribution-grid-snake-dark.svg)
 
 ##
 
