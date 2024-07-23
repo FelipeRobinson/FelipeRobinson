@@ -1,4 +1,4 @@
-.rxb# Olá! I'm Felipe, para os mais intimos Spider...
+# Olá! I'm Felipe, para os mais intimos Spider...
 
 ![CLARO](https://img.shields.io/badge/hello-world-white) ![]() ![]() ![]()
 
@@ -21,7 +21,7 @@
     - <a href="https://cultoaciencia.net/">EE CULTO À CIÊNCIA</a> <br>
 - 📫 Como me contatar:
     <div> 
-        <a href="https://www.instagram.com/felip.spider/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+        <a href="https://www.instagram.com/felipe.rxb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
         <a href="https://discord.com/channels/@me/674573799265665035" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
         <a href = "mailto:feliperobinsonprofissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         <a href="https://www.linkedin.com/in/feliperobinson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
