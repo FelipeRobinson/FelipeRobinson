@@ -3,10 +3,11 @@
 ![CLARO](https://img.shields.io/badge/hello-world-white) ![]() ![]() ![]()
 
 ##
-
+<!--
 ![Snake Gif](https://github.com/FelipeRobinson/FelipeRobinson/blob/output/github-contribution-grid-snake-dark.svg)
 
 ##
+-->
 
 ![Felbs GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeRobinson&theme=chartreuse-dark)
 ![Felbs GitHub ](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRobinson&layout=compact&langs_count=16&theme=chartreuse-dark)
@@ -39,8 +40,6 @@
 
 ##
 
-
-##
 
 ## 💻 Tecnologias Aperfeiçoadas
 - ### Desenvolvimento Front-end: <br>
