@@ -26,7 +26,7 @@
         <a href="https://www.linkedin.com/in/feliperobinson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
     </div>
 - 🧐 Curiosidades about me:
-    - 🥇🥋 Eu fiz 8 anos de Kung-Fu em diversas academias, praticando o estulo Choy-Lay-Fut. Tenho inúmeras medalhas e a mais importante, uma de campeão brasileiro no meu estilo: mãos livres juvenil. Eu tinha muito mais a aprender, tanto que não era faixa preta, porém por algumas circunstâncias, tive que parar por motivos financeiros.
+    - 🥇🥋 Eu fiz 8 anos de Kung-Fu em diversas academias, praticando o estulo Choy-Lay-Fut. Tenho inúmeras medalhas e a mais importante, uma de campeão brasileiro no meu estilo: mãos livres juvenil. Eu tinha muito mais a aprender, tanto que não era faixa preta, porém tive que parar por motivos financeiros.
     - 🎮👨‍💻 Sempre tive o sonho de seguir carreira em alguma área computacional, seja em jogos, em CYBER-SEGURANÇA, ou em DEV como estou agora, porém sempre me faltou o primeiro passo (e muitos dizem que ele é o mais dificil), porém em jan/24, eu conseguir a aprovação no colégio técnico da Universidade de Campinas, e mantenho uma rotina intensa desde então.
     - 📚😎 Após essa aprovação no colégio técnico, medio a rotina intensa de estudos das 7h30 às 23h. É extremamente cansativo, porém eu sou dos "NO PAIN, NO GAIN", pois de fato, muitos dos caras da elite, que obtiveram sucesso, não conseguiram sem abrir mão de coisas importantes, e tempo é o bem mais valioso de uma vida.
 
