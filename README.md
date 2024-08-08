@@ -52,7 +52,7 @@
 
 <br>
   
-## 👾 Habilidades Comportamentais
+## 👾 Soft's Skill
 - Atento;
 - Focado;
 - Persistente;
@@ -64,7 +64,7 @@
 
 <br>
 
-## 🧠 Habilidades Técnicas
+## 🧠 Hard's Skill
 - Especialista em **EXCEL** (Uso diário e trabalhei na área por dois anos).
 - **Inglês** iniciante [WIZARD](https://wizard.com/).
 - **Desenvolvedor de Aplicações Web** Júnior.
@@ -73,9 +73,9 @@
 <br>
 
 ## 🔭 Projetos
-- 🎨 [ANIVERSÁRIO MARIA](https://github.com/FelipeRobinson/MARIA_1.7): um site criado para o aniversário de 17 anos da minha namorada. *ainda em desenvolvimento*. [Experimente!](https://mariabirthday-kaq8ysmt3-feliperobinsons-projects.vercel.app/)
+- 🎨 [MARIA BIRTHDAY](https://github.com/FelipeRobinson/MARIA_1.7): um site criado para o aniversário de 17 anos da minha namorada. *ainda em desenvolvimento*. [Experimente!](https://mariabirthday-kaq8ysmt3-feliperobinsons-projects.vercel.app/)
 - 🎶 [RECOMENDADOR DE MÚSICAS](https://github.com/FelipeRobinson/RECOMENDADOR_MUSICAS): Um projeto JavaScript usando P5.JS, desenvolvido em um projeto de itinerário de escola pública em parceria com a ALURA, com algumas modificações. [Experimente!](https://https//editor.p5js.org/FelipeSpider/sketches/bqCadVZLm)
-- 🏓 [JOGO PONG](https://github.com/FelipeRobinson/PONG-GAME): Um jogo de ping pong, inspirado nos clássicos, desenvolvido em um projeto de itinerário de escola pública em parceria com a ALURA. [Experimente!](https://editor.p5js.org/FelipeSpider/sketches/reH2mviDs)
+- 🏓 [PONG-GAME](https://github.com/FelipeRobinson/PONG-GAME): Um jogo de ping pong, inspirado nos clássicos, desenvolvido em um projeto de itinerário de escola pública em parceria com a ALURA. [Experimente!](https://editor.p5js.org/FelipeSpider/sketches/reH2mviDs)
 - 🎪 [COTUCA FLIX](https://github.com/FelipeRobinson/COTUCA_FLIX): Um projeto inicial de um site, apenas uma amostra, de um cinema fictício na escola técnica. O projeto não está hospedado em nenhuma **URL**, então para rodá-lo, você precisa baixar o arquivo do [LINK](https://github.com/FelipeRobinson/COTUCA_FLIX/blob/main/Abas/Home/index.html) e abri-lo em seu navegador. [Experimente!](https://github.com/FelipeRobinson/COTUCA_FLIX/)
 - **Tenho muito mais por vir 🤫!**
 
