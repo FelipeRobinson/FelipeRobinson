@@ -5,8 +5,8 @@
 <br>
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeRobinson&theme=chartreuse-dark" alt="Felbs GitHub stats" width="500px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRobinson&layout=compact&langs_count=16&theme=chartreuse-dark" alt="Felbs GitHub Top Languages" width="500px" height="218px">
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeRobinson&theme=chartreuse-dark" alt="Felbs GitHub stats" width="450px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRobinson&layout=compact&langs_count=16&theme=chartreuse-dark" alt="Felbs GitHub Top Languages" width="450px" height="195px">
 </div>
 
 ##
