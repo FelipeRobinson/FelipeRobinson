@@ -1,15 +1,10 @@
 # ![CLARO](https://img.shields.io/badge/hello-world-white) Eu sou Felipe, também conhecido como Spider...
+
 <!--
 ![Snake Gif](https://github.com/FelipeRobinson/FelipeRobinson/blob/output/github-contribution-grid-snake-dark.svg)
 -->
+
 <br>
-
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeRobinson&theme=chartreuse-dark" alt="Felbs GitHub stats" height="200px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRobinson&layout=compact&langs_count=16&theme=chartreuse-dark" alt="Felbs GitHub Top Languages" height="200px">
-</div>
-
-##
 
 <br>
 
@@ -23,15 +18,15 @@
     - <a href="https://alura.com">ALURA</a>
 - 📫 Como me encontrar:
     <div> 
-        <a href="https://www.instagram.com/felipe.rxb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+        <a href="https://www.instagram.com/feliper.rxb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
         <a href="https://discord.com/channels/@me/674573799265665035" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
         <a href="mailto:feliperobinsonprofissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-        <a href="https://www.linkedin.com/in/feliperobinson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
+        <a href="https://www.linkedin.com/in/feliperobinson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
 - 🧐 Fatos interessantes sobre mim:
     - 🥇🥋 Pratiquei Kung-Fu por 8 anos em várias academias, treinando no estilo Choy-Lay-Fut. Tenho inúmeras medalhas, sendo a mais importante a de campeão brasileiro no meu estilo: freestyle júnior. Tinha muito mais a aprender e ainda não era faixa preta, mas tive que parar por motivos financeiros.
     - 🎮👨‍💻 Sempre sonhei com uma carreira em alguma área computacional, seja em jogos, CIBERSEGURANÇA ou DEV como estou agora, mas sempre faltou o primeiro passo (muitos dizem que é o mais difícil). No entanto, em Jan/24, fui aceito na escola técnica da Universidade de Campinas, e desde então mantenho uma rotina intensa.
-    - 📚😎 Após ser aceito na escola técnica, mantenho uma rotina de estudos intensa das 7:30 às 23:00. É extremamente exaustivo, mas acredito em "SEM DOR, SEM GANHO", pois muitos indivíduos de elite bem-sucedidos não alcançaram o sucesso sem sacrificar coisas importantes, e o tempo é o ativo mais valioso na vida.
+    - 📚😎 Hoje, dois anos depois, mantenho uma rotina de estudos intensa das 7:50 às 21h, consiliando a faculdade, onde agora fui aceito, o trabalho de trade, e varias atividades extras. É extremamente exaustivo, mas acredito em "SEM DOR, SEM GANHO", pois muitos indivíduos da elite bem-sucedidos não alcançaram o sucesso sem sacrificar coisas importantes, e *o tempo é o ativo mais valioso na vida*.
 
 <br>
 
