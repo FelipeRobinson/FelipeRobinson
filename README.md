@@ -10,12 +10,11 @@
 
 ## 🦾 SOBRE MIM:
 - 👀 Estou interessado na área de DEV & CIBERSEGURANÇA.
-- 🌱 Atualmente estou estudando no Ensino Médio e na Escola Técnica.
-- 💞 Estou colaborando com as seguintes instituições de ensino:
-    - <a href="https://cotuca.unicamp.br/">COLÉGIO TÉCNICO DA UNICAMP</a>
-    - <a href="https://cultoaciencia.net/">EE CULTO À CIÊNCIA</a>
+- 🌱 Atualmente estou estudando na faculdade e em um emprego.
+- 💞 Estou em colaboração com as seguintes instituições:
+    - <a href="https://fateccampinas.com.br/">FACULDADE DE TECNOLOGIA DE CAMPINAS</a>
+    - <a href="https://grancoffee.com.br">GRAN COFFEE</a>
     - <a href="https://udemy.com">UDEMY</a>
-    - <a href="https://alura.com">ALURA</a>
 - 📫 Como me encontrar:
     <div> 
         <a href="https://www.instagram.com/feliper.rxb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
