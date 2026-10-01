@@ -1,8 +1,7 @@
 # ![CLARO](https://img.shields.io/badge/hello-world-white) Eu sou Felipe, também conhecido como Spider...
 
-<!--
+
 ![Snake Gif](https://github.com/FelipeRobinson/FelipeRobinson/blob/output/github-contribution-grid-snake-dark.svg)
--->
 
 <br>
 
