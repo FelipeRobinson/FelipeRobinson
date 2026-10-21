@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00F5A0&height=180&section=header&text=Felipe%20Robinson&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Developer%20%7C%20Spider%20%7C%20Future%20Cybersecurity%20Professional&descSize=14&descAlignY=55&animation=fadeIn" alt="Banner Felipe Robinson" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:FF1744&height=180&section=header&text=Felipe%20Robinson&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Developer%20%7C%20Spider%20%7C%20Future%20Cybersecurity%20Professional&descSize=14&descAlignY=55&animation=fadeIn" alt="Banner Felipe Robinson" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+mundo!+%F0%9F%91%8B;Eu+sou+Felipe%2C+mas+pode+me+chamar+de+Spider;Desenvolvimento+%7C+Tecnologia+%7C+Ciberseguran%C3%A7a;Transformando+curiosidade+em+projetos+reais." alt="Texto animado de boas-vindas" />
@@ -147,6 +147,6 @@ Sou o Felipe Robinson — também conhecido como **Spider**. Tenho interesse em 
 
 <div align="center">
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:0D1117&height=100&section=footer" alt="" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,100:0D1117&height=100&section=footer" alt="" width="100%" />
   <sub>Feito com dedicação por Felipe Robinson • “Sempre há algo novo para aprender.”</sub>
 </div>
