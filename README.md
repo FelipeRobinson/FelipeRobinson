@@ -1,8 +1,3 @@
-<!--
-  README do perfil: https://github.com/FelipeRobinson
-  Dica: o repositório precisa se chamar exatamente "FelipeRobinson".
--->
-
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00F5A0&height=180&section=header&text=Felipe%20Robinson&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Developer%20%7C%20Spider%20%7C%20Future%20Cybersecurity%20Professional&descSize=14&descAlignY=55&animation=fadeIn" alt="Banner Felipe Robinson" width="100%" />
@@ -16,6 +11,19 @@
     <a href="https://www.linkedin.com/in/feliperobinson/"><img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:feliperobinsonprofissional@gmail.com"><img src="https://img.shields.io/badge/Email-Fale%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
+
+</div>
+
+--
+
+## 🐍 Minha atividade, em movimento
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeRobinson/FelipeRobinson/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeRobinson/FelipeRobinson/output/github-snake.svg" />
+    <img alt="Animação da cobrinha percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/FelipeRobinson/FelipeRobinson/output/github-snake.svg" width="100%" />
+  </picture>
 
 </div>
 
@@ -43,15 +51,15 @@ Sou o Felipe Robinson — também conhecido como **Spider**. Tenho interesse em 
   <img src="https://skillicons.dev/icons?i=java,js,python,c&theme=dark" alt="Java, JavaScript, Python e C" />
 
   <br/><br/>
+
   **Desenvolvimento web e backend**
   <br/>
   <img src="https://skillicons.dev/icons?i=html,css,nodejs,spring&theme=dark" alt="HTML, CSS, Node.js e Spring" />
-
   <br/><br/>
+
   **Banco de dados e ferramentas**
   <br/>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio&theme=dark" alt="MySQL, Git, GitHub, VS Code e Android Studio" />
-
 </div>
 
 <p align="center">
@@ -78,19 +86,6 @@ Sou o Felipe Robinson — também conhecido como **Spider**. Tenho interesse em 
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=FelipeRobinson&theme=tokyonight&hide_border=true" alt="Sequência de contribuições no GitHub" />
   </a>
-
-</div>
-
-## 🐍 Minha atividade, em movimento
-
-<div align="center">
-
-  <!-- Gerada automaticamente pelo workflow em .github/workflows/snake.yml -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeRobinson/FelipeRobinson/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeRobinson/FelipeRobinson/output/github-snake.svg" />
-    <img alt="Animação da cobrinha percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/FelipeRobinson/FelipeRobinson/output/github-snake.svg" width="100%" />
-  </picture>
 
 </div>
 
