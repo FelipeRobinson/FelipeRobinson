@@ -94,15 +94,6 @@ Sou o Felipe Robinson — também conhecido como **Spider**. Tenho interesse em 
     <td width="50%" valign="top">
       <h3>🌎 Oceanun — E-commerce de Viagens</h3>
       <p>Plataforma de comércio eletrônico voltada ao setor de turismo, desenvolvida como projeto acadêmico de Engenharia de Software. A proposta é reunir a comercialização de destinos, hospedagens e pacotes de viagem em um ambiente digital, com recursos para gerenciamento de clientes, pedidos e vendas.</p>
-      <p><strong>Principais funcionalidades e recursos planejados:</strong></p>
-      <ul>
-        <li>Catálogo de destinos, hospedagens e pacotes de viagem.</li>
-        <li>Carrinho de compras e processo de checkout.</li>
-        <li>Integração com API de pagamento.</li>
-        <li>Gestão de clientes, pedidos e vendas.</li>
-        <li>Controle de acesso por perfil de usuário.</li>
-        <li>Modelagem de dados, requisitos e diagramas UML.</li>
-      </ul>
       <p>
         <a href="https://github.com/FelipeRobinson/E-commerce-Viagens"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código do Oceanun" /></a>
       </p>
@@ -110,16 +101,6 @@ Sou o Felipe Robinson — também conhecido como **Spider**. Tenho interesse em 
     <td width="50%" valign="top">
       <h3>🐍 CRUD — Agenda de Contatos</h3>
       <p>Aplicação desenvolvida em Python para gerenciamento de uma agenda de contatos. Projeto acadêmico que coloca em prática conceitos de lógica de programação, estruturas de dados, algoritmos e manipulação de informações.</p>
-      <p><strong>Principais funcionalidades:</strong></p>
-      <ul>
-        <li>Cadastro de novos contatos.</li>
-        <li>Consulta e listagem de registros.</li>
-        <li>Atualização de informações dos contatos.</li>
-        <li>Exclusão de registros.</li>
-        <li>Busca binária para localização de contatos.</li>
-        <li>Organização alfabética dos registros.</li>
-        <li>Menus interativos e validação de entradas.</li>
-      </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       </p>
