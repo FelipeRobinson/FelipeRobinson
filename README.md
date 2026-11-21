@@ -3,11 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:FF1744&height=180&section=header&text=Felipe%20Robinson&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Developer%20%7C%20Spider%20%7C%20Future%20Cybersecurity%20Professional&descSize=14&descAlignY=55&animation=fadeIn" alt="Banner Felipe Robinson" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+mundo!+%F0%9F%91%8B;Eu+sou+Felipe%2C+mas+pode+me+chamar+de+Spider;Desenvolvimento+%7C+Tecnologia+%7C+Ciberseguran%C3%A7a;Transformando+curiosidade+em+projetos+reais." alt="Texto animado de boas-vindas" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&pause=1000&color=A51434&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+mundo!+%F0%9F%91%8B;Eu+sou+Felipe%2C+mas+pode+me+chamar+de+Spider;Desenvolvimento+%7C+Tecnologia+%7C+Ciberseguran%C3%A7a;Transformando+curiosidade+em+projetos+reais" alt="Texto animado de boas-vindas" />
   </a>
 
   <p>
-    <a href="https://github.com/FelipeRobinson?tab=repositories"><img src="https://img.shields.io/badge/Projetos-GitHub-00F5A0?style=for-the-badge&logo=github&logoColor=111111" alt="Projetos no GitHub" /></a>
+    <a href="https://github.com/FelipeRobinson?tab=repositories"><img src="https://img.shields.io/badge/Projetos-GitHub-A51434?style=for-the-badge&logo=github&logoColor=111111" alt="Projetos no GitHub" /></a>
     <a href="https://www.linkedin.com/in/feliperobinson/"><img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:feliperobinsonprofissional@gmail.com"><img src="https://img.shields.io/badge/Email-Fale%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
@@ -97,14 +97,14 @@ Sou o Felipe Robinson — também conhecido como **Spider**. Tenho interesse em 
       <p>Site de divulgação para uma autoescola, criado para apresentar serviços e apoiar a presença digital da empresa. O projeto recebe melhorias contínuas.</p>
       <p>
         <a href="https://github.com/FelipeRobinson/evolucao"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código" /></a>
-        <a href="https://evolucaoautoescola.com.br"><img src="https://img.shields.io/badge/Abrir%20site-00F5A0?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Abrir site" /></a>
+        <a href="https://evolucaoautoescola.com.br"><img src="https://img.shields.io/badge/Abrir%20site-A51434?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Abrir site" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🧘 AJNA Terapias</h3>
       <p>Projeto web para divulgação do instituto e apoio à gestão, com proposta de dashboards e acompanhamento de pacientes, histórico, vendas e contas. A área interna do CRM não é pública.</p>
       <p>
-        <a href="https://feliperobinson.github.io/ajnaterapias"><img src="https://img.shields.io/badge/Ver%20demonstra%C3%A7%C3%A3o-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver demonstração" /></a>
+        <a href="https://feliperobinson.github.io/ajnaterapias"><img src="https://img.shields.io/badge/Ver%20demonstra%C3%A7%C3%A3o-901430?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver demonstração" /></a>
       </p>
     </td>
   </tr>
@@ -121,7 +121,7 @@ Sou o Felipe Robinson — também conhecido como **Spider**. Tenho interesse em 
       <p>Uma releitura do clássico Pong, criada em um projeto escolar em parceria com a Alura, colocando em prática conceitos de lógica e programação.</p>
       <p>
         <a href="https://github.com/FelipeRobinson/PONG-GAME"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código" /></a>
-        <a href="https://editor.p5js.org/FelipeSpider/sketches/reH2mviDs"><img src="https://img.shields.io/badge/Jogar%20online-00F5A0?style=for-the-badge&logoColor=111111" alt="Jogar online" /></a>
+        <a href="https://editor.p5js.org/FelipeSpider/sketches/reH2mviDs"><img src="https://img.shields.io/badge/Jogar%20online-A51434?style=for-the-badge&logoColor=111111" alt="Jogar online" /></a>
       </p>
     </td>
   </tr>
