@@ -1,3 +1,4 @@
+
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:FF1744&height=180&section=header&text=Felipe%20Robinson&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Developer%20%7C%20Spider%20%7C%20Future%20Cybersecurity%20Professional&descSize=14&descAlignY=55&animation=fadeIn" alt="Banner Felipe Robinson" width="100%" />
@@ -14,7 +15,6 @@
 
 </div>
 
-
 ## 🐍 Minha atividade, em movimento
 
 <div align="center">
@@ -23,7 +23,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeRobinson/FelipeRobinson/output/github-snake.svg" />
     <img alt="Animação da cobrinha percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/FelipeRobinson/FelipeRobinson/output/github-snake.svg" width="100%" />
   </picture>
-
 </div>
 
 ---
@@ -91,6 +90,44 @@ Sou o Felipe Robinson — também conhecido como **Spider**. Tenho interesse em 
 ## 🚀 Projetos em destaque
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌎 Oceanun — E-commerce de Viagens</h3>
+      <p>Plataforma de comércio eletrônico voltada ao setor de turismo, desenvolvida como projeto acadêmico de Engenharia de Software. A proposta é reunir a comercialização de destinos, hospedagens e pacotes de viagem em um ambiente digital, com recursos para gerenciamento de clientes, pedidos e vendas.</p>
+      <p><strong>Principais funcionalidades e recursos planejados:</strong></p>
+      <ul>
+        <li>Catálogo de destinos, hospedagens e pacotes de viagem.</li>
+        <li>Carrinho de compras e processo de checkout.</li>
+        <li>Integração com API de pagamento.</li>
+        <li>Gestão de clientes, pedidos e vendas.</li>
+        <li>Controle de acesso por perfil de usuário.</li>
+        <li>Modelagem de dados, requisitos e diagramas UML.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/FelipeRobinson/E-commerce-Viagens"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código do Oceanun" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐍 CRUD — Agenda de Contatos</h3>
+      <p>Aplicação desenvolvida em Python para gerenciamento de uma agenda de contatos. Projeto acadêmico que coloca em prática conceitos de lógica de programação, estruturas de dados, algoritmos e manipulação de informações.</p>
+      <p><strong>Principais funcionalidades:</strong></p>
+      <ul>
+        <li>Cadastro de novos contatos.</li>
+        <li>Consulta e listagem de registros.</li>
+        <li>Atualização de informações dos contatos.</li>
+        <li>Exclusão de registros.</li>
+        <li>Busca binária para localização de contatos.</li>
+        <li>Organização alfabética dos registros.</li>
+        <li>Menus interativos e validação de entradas.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      </p>
+      <p>
+        <a href="https://github.com/FelipeRobinson/CRUD_"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código do CRUD" /></a>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🚗 Autoescola Evolução</h3>
